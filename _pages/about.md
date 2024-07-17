@@ -31,6 +31,8 @@ Progressive Pretext Task Learning for Human Trajectory Prediction
 
 **Xiaotong Lin**, Tianming Liang, Jianhuang Lai, Jian-Fang Hu*
 
+*European Conference on Computer Vision, 2024.*
+
 [**Arxiv**](https://arxiv.org/pdf/2407.11588), [**Code**](https://github.com/iSEE-Laboratory/PPT).
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -42,6 +44,8 @@ Progressive Pretext Task Learning for Human Trajectory Prediction
 Temporal Continual Learning with Prior Compensation for Human Motion Prediction
 
 Jianwei Tang, Jiangxin Sun, **Xiaotong Lin**, Lifang Zhang, Wei-Shi Zheng, Jian-Fang Hu*
+
+*Advances in Neural Information Processing Systems, 2023*
 
 [**Paper**](https://papers.nips.cc/paper_files/paper/2023/hash/cf7a83a5342befd11d3d65beba1be5b0-Abstract-Conference.html), [**Code**](https://github.com/hyqlat/TCL).
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
