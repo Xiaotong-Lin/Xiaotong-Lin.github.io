@@ -31,7 +31,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/PPT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Progressive Pretext Task Learning for Human Trajectory Prediction
+**Progressive Pretext Task Learning for Human Trajectory Prediction**
 
 **Xiaotong Lin**, [Tianming Liang](https://tmliang.github.io/), [Jianhuang Lai](https://scholar.google.com/citations?user=w3GjGqoAAAAJ), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)*
 
@@ -45,7 +45,7 @@ Progressive Pretext Task Learning for Human Trajectory Prediction
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/TCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Temporal Continual Learning with Prior Compensation for Human Motion Prediction
+**Temporal Continual Learning with Prior Compensation for Human Motion Prediction**
 
 Jianwei Tang, [Jiangxin Sun](https://sunjiangxin.github.io/website), **Xiaotong Lin**, Lifang Zhang, [Wei-Shi Zheng](https://isee-ai.cn/~zhwshi/), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)*
 
