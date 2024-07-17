@@ -39,7 +39,6 @@ Progressive Pretext Task Learning for Human Trajectory Prediction
 
 [**Arxiv**](https://arxiv.org/pdf/2407.11588), [**Code**](https://github.com/iSEE-Laboratory/PPT).
 
-
 </div>
 </div>
 
