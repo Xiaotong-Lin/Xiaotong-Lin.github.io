@@ -24,7 +24,19 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/PPT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Progressive Pretext Task Learning for Human Trajectory Prediction
+
+**Xiaotong Lin**, Tianming Liang, Jianhuang Lai, Jian-Fang Hu*
+
+[**Arxiv**](https://arxiv.org/pdf/2407.11588), [**Code**](https://github.com/iSEE-Laboratory/PPT).
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/TCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Temporal Continual Learning with Prior Compensation for Human Motion Prediction
