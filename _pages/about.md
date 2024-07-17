@@ -24,7 +24,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/PPT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/PPT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Progressive Pretext Task Learning for Human Trajectory Prediction
@@ -36,7 +36,7 @@ Progressive Pretext Task Learning for Human Trajectory Prediction
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/TCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/TCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Temporal Continual Learning with Prior Compensation for Human Motion Prediction
