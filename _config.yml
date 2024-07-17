@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaotong Lin <br>林小彤"
+  name             : "<div style='text-align: center;'>Xiaotong Lin<br>林小彤</div>"
   avatar           : "images/lxt.jpg"
   # bio              : "Lorem ipsum College"
   location         : "Guangzhou, China"
