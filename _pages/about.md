@@ -21,6 +21,9 @@ I am currently a third-year master's student at [Sun Yat-sen University](https:/
 
 Currently, my research interests lie in Human Motion Prediction and Trajectory Prediction.
 
+# 🔥 News
+- *2024.07*: &nbsp;🎉🎉 1 paper is accepted by ECCV 2024. 
+
 
 # 📝 Publications 
 
