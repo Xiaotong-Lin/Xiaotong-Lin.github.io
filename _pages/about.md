@@ -23,6 +23,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 1 paper is accepted by ECCV 2024. 
+- *2023.09*: &nbsp;🎉🎉 1 paper is accepted by NeurIPS 2023. 
 
 
 # 📝 Publications 
