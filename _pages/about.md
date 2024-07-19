@@ -37,7 +37,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 *European Conference on Computer Vision, 2024.*
 
-[**Arxiv**](https://arxiv.org/pdf/2407.11588), [**Code**](https://github.com/iSEE-Laboratory/PPT).
+[**[Arxiv]**](https://arxiv.org/pdf/2407.11588) / [**[Code]**](https://github.com/iSEE-Laboratory/PPT).
 
 </div>
 </div>
@@ -51,7 +51,7 @@ Jianwei Tang, [Jiangxin Sun](https://sunjiangxin.github.io/website), **Xiaotong 
 
 *Advances in Neural Information Processing Systems, 2023*
 
-[**Paper**](https://papers.nips.cc/paper_files/paper/2023/hash/cf7a83a5342befd11d3d65beba1be5b0-Abstract-Conference.html), [**Code**](https://github.com/hyqlat/TCL).
+[**[Paper]**](https://papers.nips.cc/paper_files/paper/2023/hash/cf7a83a5342befd11d3d65beba1be5b0-Abstract-Conference.html) / [**[Code]**](https://github.com/hyqlat/TCL).
 
 </div>
 </div>
