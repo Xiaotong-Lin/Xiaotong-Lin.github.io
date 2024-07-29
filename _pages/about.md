@@ -22,13 +22,26 @@ I am currently a third-year master's student at [Sun Yat-sen University](https:/
 Currently, my research interests lie in Human Motion Prediction and Trajectory Prediction.
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 1 paper is accepted by TCSVT 2024. 
 - *2024.07*: &nbsp;🎉🎉 1 paper is accepted by ECCV 2024. 
 - *2023.09*: &nbsp;🎉🎉 1 paper is accepted by NeurIPS 2023. 
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/PPT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/PPT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Beyond Minimum-of-N: Rethinking the Evaluation and Methods of Pedestrian Trajectory Prediction**
+
+Linhui Li, **Xiaotong Lin**, Yejia Huang, [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/), Zizhen Zhang*
+
+*IEEE Transactions on Circuits and Systems for Video Technology, 2024.*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/TCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Progressive Pretext Task Learning for Human Trajectory Prediction**
