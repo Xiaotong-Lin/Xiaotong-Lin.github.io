@@ -41,7 +41,10 @@ Linhui Li, **Xiaotong Lin**, Yejia Huang, Zizhen Zhang*, [Jian-Fang Hu](https://
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/TCL.png' alt="sym" width="100%"></div></div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/PPT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Progressive Pretext Task Learning for Human Trajectory Prediction**
@@ -54,6 +57,9 @@ Linhui Li, **Xiaotong Lin**, Yejia Huang, Zizhen Zhang*, [Jian-Fang Hu](https://
 
 </div>
 </div>
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/TCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
