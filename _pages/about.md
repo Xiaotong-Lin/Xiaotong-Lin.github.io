@@ -53,7 +53,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 **Beyond Minimum-of-N: Rethinking the Evaluation and Methods of Pedestrian Trajectory Prediction**
 
-Linhui Li, **Xiaotong Lin**, Yejia Huang, Zizhen Zhang*, [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)
+Linhui Li, **Xiaotong Lin**, Yejia Huang, Zizhen Zhang, [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)
 
 *IEEE Transactions on Circuits and Systems for Video Technology, 2024.*
 
