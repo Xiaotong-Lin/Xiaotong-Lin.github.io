@@ -57,6 +57,8 @@ Linhui Li, **Xiaotong Lin**, Yejia Huang, Zizhen Zhang, [Jian-Fang Hu](https://w
 
 *IEEE Transactions on Circuits and Systems for Video Technology, 2024.*
 
+[**[Paper]**](https://ieeexplore.ieee.org/document/10623470)
+
 </div>
 </div>
 
