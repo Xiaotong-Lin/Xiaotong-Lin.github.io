@@ -39,7 +39,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 *European Conference on Computer Vision, 2024.*
 
-[**[Arxiv]**](https://arxiv.org/pdf/2407.11588) / [**[Code]**](https://github.com/iSEE-Laboratory/PPT).
+[**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04345.pdf) / [**[Code]**](https://github.com/iSEE-Laboratory/PPT).
 
 </div>
 </div>
