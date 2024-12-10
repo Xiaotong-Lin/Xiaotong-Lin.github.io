@@ -22,6 +22,7 @@ I am currently a third-year master's student at [Sun Yat-sen University](https:/
 Currently, my research interests lie in Human Motion Prediction and Trajectory Prediction.
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 1 paper is accepted by AAAI 2025. 
 - *2024.07*: &nbsp;🎉🎉 1 paper is accepted by TCSVT 2024. 
 - *2024.07*: &nbsp;🎉🎉 1 paper is accepted by ECCV 2024. 
 - *2023.09*: &nbsp;🎉🎉 1 paper is accepted by NeurIPS 2023. 
@@ -44,6 +45,22 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 </div>
 </div>
 
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/SAUGE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SAUGE: Taming SAM for Uncertainty-Aligned Multi-Granularity Edge Detection**
+
+Fuxing Liu, [Chaolei Tan](https://chaoleitan.github.io/), **Xiaotong Lin**, Yonggang Qi, Jinxuan Li, [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
+
+*AAAI Conference on Artificial Intelligence, 2025.*
+
+**[Paper]**
+
+</div>
+</div>
 
 
 
