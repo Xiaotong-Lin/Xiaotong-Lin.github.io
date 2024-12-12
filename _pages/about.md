@@ -57,7 +57,7 @@ Fuxing Liu, [Chaolei Tan](https://chaoleitan.github.io/), **Xiaotong Lin**, Yong
 
 *AAAI Conference on Artificial Intelligence, 2025.*
 
-**[Paper]**
+**[Paper]** / [**[Code]**](https://github.com/Star-xing1/SAUGE)
 
 </div>
 </div>
