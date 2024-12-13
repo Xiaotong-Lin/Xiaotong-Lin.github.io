@@ -53,7 +53,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 **SAUGE: Taming SAM for Uncertainty-Aligned Multi-Granularity Edge Detection**
 
-Fuxing Liu, [Chaolei Tan](https://chaoleitan.github.io/), **Xiaotong Lin**, Yonggang Qi, Jinxuan Li, [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
+Xing Liufu, [Chaolei Tan](https://chaoleitan.github.io/), **Xiaotong Lin**, Yonggang Qi, Jinxuan Li, [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
 
 *AAAI Conference on Artificial Intelligence, 2025.*
 
