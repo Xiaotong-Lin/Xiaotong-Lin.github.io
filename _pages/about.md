@@ -57,7 +57,7 @@ Xing Liufu, [Chaolei Tan](https://chaoleitan.github.io/), **Xiaotong Lin**, Yong
 
 *AAAI Conference on Artificial Intelligence, 2025.*
 
-**[Paper]** / [**[Code]**](https://github.com/Star-xing1/SAUGE)
+[**[Arxiv]**](https://arxiv.org/abs/2412.12892) / [**[Code]**](https://github.com/Star-xing1/SAUGE)
 
 </div>
 </div>
