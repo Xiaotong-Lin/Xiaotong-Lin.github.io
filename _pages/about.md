@@ -28,7 +28,6 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 <details>
   <summary><b>Earlier News</b></summary>
-  <br>
   <ul>
     <li><i>2024.12</i>: 🎉🎉 1 paper is accepted by AAAI 2025.</li>
     <li><i>2024.07</i>: 🎉🎉 1 paper is accepted by TCSVT 2024.</li>
