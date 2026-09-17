@@ -23,17 +23,23 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 # 🔥 News
 
-- *2026.09*: &nbsp;🎉🎉 1 paper is accepted by IJCV 2026. 
-- *2026.02*: &nbsp;🎉🎉 1 paper is accepted by CVPR 2026. 
-- *2024.12*: &nbsp;🎉🎉 1 paper is accepted by AAAI 2025. 
-- *2024.07*: &nbsp;🎉🎉 1 paper is accepted by TCSVT 2024. 
-- *2024.07*: &nbsp;🎉🎉 1 paper is accepted by ECCV 2024. 
-- *2023.09*: &nbsp;🎉🎉 1 paper is accepted by NeurIPS 2023. 
+- *2026.09*: &nbsp;🎉🎉 1 paper is accepted by IJCV 2026.
+- *2026.02*: &nbsp;🎉🎉 1 paper is accepted by CVPR 2026.
+
+<details>
+<summary>Earlier News</summary>
+
+- *2024.12*: &nbsp;🎉🎉 1 paper is accepted by AAAI 2025.
+- *2024.07*: &nbsp;🎉🎉 1 paper is accepted by TCSVT 2024.
+- *2024.07*: &nbsp;🎉🎉 1 paper is accepted by ECCV 2024.
+- *2023.09*: &nbsp;🎉🎉 1 paper is accepted by NeurIPS 2023.
+
+</details>
+
+
 
 
 # 📝 Publications 
-
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/PICI.png' alt="sym" width="100%"></div></div>
@@ -70,23 +76,6 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/PPT.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Progressive Pretext Task Learning for Human Trajectory Prediction**
-
-**Xiaotong Lin**, [Tianming Liang](https://tmliang.github.io/), [Jianhuang Lai](https://scholar.google.com/citations?user=w3GjGqoAAAAJ), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
-
-*European Conference on Computer Vision, 2024.*
-
-[**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04345.pdf) / [**[Code]**](https://github.com/iSEE-Laboratory/PPT).
-
-</div>
-</div>
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/SAUGE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -97,6 +86,23 @@ Xing Liufu, [Chaolei Tan](https://chaoleitan.github.io/), **Xiaotong Lin**, Yong
 *AAAI Conference on Artificial Intelligence, 2025.*
 
 [**[Arxiv]**](https://arxiv.org/abs/2412.12892) / [**[Code]**](https://github.com/Star-xing1/SAUGE)
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/PPT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Progressive Pretext Task Learning for Human Trajectory Prediction**
+
+**Xiaotong Lin**, [Tianming Liang](https://tmliang.github.io/), [Jianhuang Lai](https://scholar.google.com/citations?user=w3GjGqoAAAAJ), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
+
+*European Conference on Computer Vision, 2024.*
+
+[**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04345.pdf) / [**[Code]**](https://github.com/iSEE-Laboratory/PPT).
 
 </div>
 </div>
