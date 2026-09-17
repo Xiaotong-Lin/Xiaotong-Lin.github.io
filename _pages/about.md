@@ -23,8 +23,8 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 # 🔥 News
 
-- *2026.9*: &nbsp;🎉🎉 1 paper is accepted by IJCV 2026. 
-- *2026.2*: &nbsp;🎉🎉 1 paper is accepted by CVPR 2026. 
+- *2026.09*: &nbsp;🎉🎉 1 paper is accepted by IJCV 2026. 
+- *2026.02*: &nbsp;🎉🎉 1 paper is accepted by CVPR 2026. 
 - *2024.12*: &nbsp;🎉🎉 1 paper is accepted by AAAI 2025. 
 - *2024.07*: &nbsp;🎉🎉 1 paper is accepted by TCSVT 2024. 
 - *2024.07*: &nbsp;🎉🎉 1 paper is accepted by ECCV 2024. 
