@@ -53,7 +53,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/MotionHiFlow.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/MotionHiFlow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MotionHiFlow: Text-to-motion via hierarchical flow matching**
