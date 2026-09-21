@@ -76,6 +76,26 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/CPC++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Human motion prediction via continual prior compensation**
+
+[Jianwei Tang](https://ai-lh.github.io/), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*, [Tianming Liang](https://tmliang.github.io/), **Xiaotong Lin**, [Jiangxin Sun](https://sunjiangxin.github.io/website), [Wei-Shi Zheng](https://isee-ai.cn/~zhwshi/), [Jianhuang Lai](https://scholar.google.com/citations?user=w3GjGqoAAAAJ)
+
+*IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026.*
+
+[**[Paper]**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11342290).
+
+</div>
+</div>
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/SAUGE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
