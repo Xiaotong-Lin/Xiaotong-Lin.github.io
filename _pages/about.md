@@ -83,7 +83,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 **Human motion prediction via continual prior compensation**
 
-[Jianwei Tang](https://ai-lh.github.io/), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*, [Tianming Liang](https://tmliang.github.io/), **Xiaotong Lin**, [Jiangxin Sun](https://sunjiangxin.github.io/website), [Wei-Shi Zheng](https://isee-ai.cn/~zhwshi/), [Jianhuang Lai](https://scholar.google.com/citations?user=w3GjGqoAAAAJ)
+[Jianwei Tang](https://hyqlat.github.io/), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*, [Tianming Liang](https://tmliang.github.io/), **Xiaotong Lin**, [Jiangxin Sun](https://sunjiangxin.github.io/website), [Wei-Shi Zheng](https://isee-ai.cn/~zhwshi/), [Jianhuang Lai](https://scholar.google.com/citations?user=w3GjGqoAAAAJ)
 
 *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026.*
 
