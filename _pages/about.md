@@ -114,6 +114,23 @@ Xing Liufu, [Chaolei Tan](https://chaoleitan.github.io/), **Xiaotong Lin**, Yong
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/KE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Beyond Minimum-of-N: Rethinking the Evaluation and Methods of Pedestrian Trajectory Prediction**
+
+Linhui Li, **Xiaotong Lin**, Yejia Huang, Zizhen Zhang\*, [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
+
+*IEEE Transactions on Circuits and Systems for Video Technology, 2024.*
+
+[**[Paper]**](https://ieeexplore.ieee.org/document/10623470)
+
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/PPT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -128,22 +145,6 @@ Xing Liufu, [Chaolei Tan](https://chaoleitan.github.io/), **Xiaotong Lin**, Yong
 </div>
 </div>
 
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/KE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Beyond Minimum-of-N: Rethinking the Evaluation and Methods of Pedestrian Trajectory Prediction**
-
-Linhui Li, **Xiaotong Lin**, Yejia Huang, Zizhen Zhang\*, [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
-
-*IEEE Transactions on Circuits and Systems for Video Technology, 2024.*
-
-[**[Paper]**](https://ieeexplore.ieee.org/document/10623470)
-
-</div>
-</div>
 
 
 
