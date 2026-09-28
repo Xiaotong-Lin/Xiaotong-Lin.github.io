@@ -43,14 +43,14 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/PICI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/PICI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Controllable Human-Object Interaction Synthesis via Progressive and Invertible Condition Injection**
 
 **Xiaotong Lin**, [Tianming Liang](https://tmliang.github.io/), [Heng Li](https://ai-lh.github.io/), [Jiangxin Sun](https://sunjiangxin.github.io/website), [Jianguo Zhang](https://faculty.sustech.edu.cn/?tagid=zhangjg&iscss=1&snapid=1&orderby=date&go=2&lang=en), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
 
-*International Journal of Computer Vision, 2026.*
+*International Journal of Computer Vision (IJCV), 2026.*
 
 
 
@@ -67,7 +67,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 [Heng Li](https://ai-lh.github.io/), **Xiaotong Lin**, [Ling-An Zeng](https://www.lingan.art/), Yulei Kang, Shuai Li, [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
 
-*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026.*
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.*
 
 [**[Paper]**](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_MotionHiFlow_Text-to-Motion_via_Hierarchical_Flow_Matching_CVPR_2026_paper.pdf) / [**[Code]**](https://github.com/ai-lh/MotionHiFlow).
 
@@ -78,14 +78,14 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/CPC++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/CPC++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Human motion prediction via continual prior compensation**
 
 [Jianwei Tang](https://hyqlat.github.io/), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*, [Tianming Liang](https://tmliang.github.io/), **Xiaotong Lin**, [Jiangxin Sun](https://sunjiangxin.github.io/website), [Wei-Shi Zheng](https://isee-ai.cn/~zhwshi/), [Jianhuang Lai](https://scholar.google.com/citations?user=w3GjGqoAAAAJ)
 
-*IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026.*
+*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.*
 
 [**[Paper]**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11342290).
 
@@ -104,7 +104,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 Xing Liufu, [Chaolei Tan](https://chaoleitan.github.io/), **Xiaotong Lin**, Yonggang Qi, Jinxuan Li, [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
 
-*AAAI Conference on Artificial Intelligence, 2025.*
+*Association for the Advancement of Artificial Intelligence (AAAI), 2025.*
 
 [**[Arxiv]**](https://ojs.aaai.org/index.php/AAAI/article/view/32615) / [**[Code]**](https://github.com/Star-xing1/SAUGE)
 
@@ -121,7 +121,7 @@ Xing Liufu, [Chaolei Tan](https://chaoleitan.github.io/), **Xiaotong Lin**, Yong
 
 Linhui Li, **Xiaotong Lin**, Yejia Huang, Zizhen Zhang\*, [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
 
-*IEEE Transactions on Circuits and Systems for Video Technology, 2024.*
+*IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.*
 
 [**[Paper]**](https://ieeexplore.ieee.org/document/10623470)
 
@@ -138,7 +138,7 @@ Linhui Li, **Xiaotong Lin**, Yejia Huang, Zizhen Zhang\*, [Jian-Fang Hu](https:/
 
 **Xiaotong Lin**, [Tianming Liang](https://tmliang.github.io/), [Jianhuang Lai](https://scholar.google.com/citations?user=w3GjGqoAAAAJ), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
 
-*European Conference on Computer Vision, 2024.*
+*European Conference on Computer Vision (ECCV), 2024.*
 
 [**[Paper]**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04345.pdf) / [**[Code]**](https://github.com/iSEE-Laboratory/PPT).
 
@@ -156,7 +156,7 @@ Linhui Li, **Xiaotong Lin**, Yejia Huang, Zizhen Zhang\*, [Jian-Fang Hu](https:/
 
 Jianwei Tang, [Jiangxin Sun](https://sunjiangxin.github.io/website), **Xiaotong Lin**, Lifang Zhang, [Wei-Shi Zheng](https://isee-ai.cn/~zhwshi/), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*
 
-*Advances in Neural Information Processing Systems, 2023*
+*Advances in Neural Information Processing Systems (NeurIPS), 2023*
 
 [**[Paper]**](https://papers.nips.cc/paper_files/paper/2023/hash/cf7a83a5342befd11d3d65beba1be5b0-Abstract-Conference.html) / [**[Code]**](https://github.com/hyqlat/TCL).
 
