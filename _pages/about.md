@@ -23,9 +23,9 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 # 🔥 News
 
-- *2026.09*: &nbsp;🎉🎉 1 paper is accepted by IJCV 2026.
+- *2026.09*: &nbsp;🎉🎉 1 paper is accepted by IJCV.
 - *2026.02*: &nbsp;🎉🎉 1 paper is accepted by CVPR 2026.
-- *2025.12*: &nbsp;🎉🎉 1 paper is accepted by TPAMI 2026.
+- *2025.12*: &nbsp;🎉🎉 1 paper is accepted by TPAMI.
 
 <details>
   <summary><b>Earlier News</b></summary>
@@ -43,7 +43,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/PICI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/PICI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Controllable Human-Object Interaction Synthesis via Progressive and Invertible Condition Injection**
@@ -78,7 +78,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/CPC++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/CPC++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Human motion prediction via continual prior compensation**
