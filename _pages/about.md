@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Ph.D. student at [Sun Yat-sen University](https://www.sysu.edu.cn/), advised by Prof. [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/). Before this, I obtained my M.S. and B.S degrees from [Sun Yat-sen University](https://www.sysu.edu.cn/).
+I am currently a second-year Ph.D. student at [Sun Yat-sen University](https://www.sysu.edu.cn/), advised by Prof. [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/) in the [iSEE lab](https://www.isee-ai.cn/#/home). Before this, I obtained my M.S. and B.S degrees from [Sun Yat-sen University](https://www.sysu.edu.cn/).
 
 Currently, my research interests lie in Human Motion Prediction and Trajectory Prediction.
 
