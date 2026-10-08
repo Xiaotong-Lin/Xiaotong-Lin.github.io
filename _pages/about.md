@@ -52,7 +52,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 *International Journal of Computer Vision (IJCV), 2026.*
 
-
+[**[Paper]**](https://link.springer.com/article/10.1007/s11263-026-03052-2)
 
 </div>
 </div>
