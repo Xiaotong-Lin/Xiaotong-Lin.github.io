@@ -106,7 +106,7 @@ Xing Liufu, [Chaolei Tan](https://chaoleitan.github.io/), **Xiaotong Lin**, Yong
 
 *Association for the Advancement of Artificial Intelligence (AAAI), 2025.*
 
-[**[Arxiv]**](https://ojs.aaai.org/index.php/AAAI/article/view/32615) / [**[Code]**](https://github.com/Star-xing1/SAUGE)
+[**[Paper]**](https://ojs.aaai.org/index.php/AAAI/article/view/32615) / [**[Code]**](https://github.com/Star-xing1/SAUGE)
 
 </div>
 </div>
