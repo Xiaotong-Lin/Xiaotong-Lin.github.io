@@ -56,7 +56,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 *IEEE Transactions on Multimedia (TMM), 2026.*
 
-[**[Arxiv]**](https://arxiv.org/abs/2508.07162)
+[**[Arxiv]**](https://arxiv.org/abs/2508.07162) / [**[Demo]**](https://xiaotong-lin.github.io/CoopDiT).
 
 </div>
 </div>
