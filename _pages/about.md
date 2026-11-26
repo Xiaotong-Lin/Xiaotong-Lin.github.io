@@ -52,7 +52,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 **CoopDiT: Anticipating 3D Human-Object Interactions via Contact-consistent Decoupled Diffusion Transformer**
 
-**Xiaotong Lin**, [Tianming Liang](https://tmliang.github.io/), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*, [Kun-Yu Lin](https://ai-lh.github.io/), Yulei Kang, Chunwei Tian, [Jianhuang Lai](https://scholar.google.com/citations?user=w3GjGqoAAAAJ), [Wei-Shi Zheng](https://isee-ai.cn/~zhwshi/)
+**Xiaotong Lin**, [Tianming Liang](https://tmliang.github.io/), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/)\*, [Kun-Yu Lin](https://kunyulin.github.io/), Yulei Kang, Chunwei Tian, [Jianhuang Lai](https://scholar.google.com/citations?user=w3GjGqoAAAAJ), [Wei-Shi Zheng](https://isee-ai.cn/~zhwshi/)
 
 *IEEE Transactions on Multimedia (TMM), 2026.*
 
