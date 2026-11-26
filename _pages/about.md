@@ -23,6 +23,7 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 # 🔥 News
 
+- *2026.11*: &nbsp;🎉🎉 1 paper is accepted by TMM.
 - *2026.09*: &nbsp;🎉🎉 1 paper is accepted by IJCV.
 - *2026.02*: &nbsp;🎉🎉 1 paper is accepted by CVPR 2026.
 - *2025.12*: &nbsp;🎉🎉 1 paper is accepted by TPAMI.
@@ -41,6 +42,25 @@ Currently, my research interests lie in Human Motion Prediction and Trajectory P
 
 
 # 📝 Publications 
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/CoopDiT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CoopDiT: Anticipating 3D Human-Object Interactions via Contact-consistent Decoupled Diffusion Transformer**
+
+**Xiaotong Lin**, [Tianming Liang](https://tmliang.github.io/), [Jian-Fang Hu](https://www.isee-ai.cn/~hujianfang/), [Kun-Yu Lin](https://ai-lh.github.io/), Yulei Kang, Chunwei Tian, [Jianhuang Lai](https://scholar.google.com/citations?user=w3GjGqoAAAAJ), [Wei-Shi Zheng](https://isee-ai.cn/~zhwshi/)\*
+
+*IEEE Transactions on Multimedia (TMM), 2026.*
+
+[**[Arxiv]**](https://arxiv.org/abs/2508.07162)
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/PICI.png' alt="sym" width="100%"></div></div>
